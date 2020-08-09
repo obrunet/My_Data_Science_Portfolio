@@ -1,6 +1,18 @@
 Here is a summary of all the Data Science projects i've done so far :
 ---
 
+Those challenges come from:
+- [Kaggle](https://www.kaggle.com)
+- [ENS Data Challenges](https://challengedata.ens.fr)
+- [Zindi](https://zindi.africa/)
+
+There are different tasks of machine learning
+- regression / classification
+- computer vision
+- natural language processing
+- recommendation engine
+
+
 | Title & notebook | Year | Source | Description & Goals  | 
 | --- | --- | --- | --- |
 | [Fashion MNIST](https://github.com/obrunet/Kaggle_kernels/blob/master/Fashion%20MNIST/Kaggle/fashion_mnist.ipynb) | 2019 | [Kaggle](https://www.kaggle.com/obrunet/fashion-mnist) | Classification task of 28x28 grayscale clothes' images with CNNs & MLPs in Tensorflow |
