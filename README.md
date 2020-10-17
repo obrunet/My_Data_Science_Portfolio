@@ -32,5 +32,3 @@ There are different tasks of machine learning
 | Cirta - Particle Type Classification - Part [1](https://obrunet.github.io/data%20science/Particles1/) & [2](https://obrunet.github.io/data%20science/Particles2/) | 2020 | [Zindi](https://zindi.africa/) | Build a machine learning model to help physicists identify particles after a collision based on images.
 
 
-
-dfg
