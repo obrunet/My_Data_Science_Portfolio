@@ -12,7 +12,6 @@ There are different tasks of machine learning
 - natural language processing
 - recommendation engine
 
----
 
 | Title & notebook | Year | Source | Description & Goals  | 
 | --- | --- | --- | --- |
