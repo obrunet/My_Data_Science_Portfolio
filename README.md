@@ -10,7 +10,8 @@ I've achieved varisous tasks / used different types of ML models:
 - regression / classification
 - computer vision
 - natural language processing
-- recommendation engine
+- recommendation engine   
+
 
 
 | Title & notebook | Year | Source | Description & Goals  | 
