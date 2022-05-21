@@ -6,6 +6,7 @@ Those challenges come from:
 - [ENS Data Challenges](https://challengedata.ens.fr)
 - [Zindi](https://zindi.africa/)
 
+
 There are different tasks of machine learning
 - regression / classification
 - computer vision
@@ -34,3 +35,4 @@ There are different tasks of machine learning
 | [Fowl Escapades](https://github.com/obrunet/My_Data_Science_Portfolio/blob/master/Fowl%20Escapades/__FINAL.ipynb)  | 2022 | [Zindi](https://zindi.africa/competitions/fowl-escapades) | Classification of numerious classes of birds callings. Audio data augmentation, preprocessing, spectrograms & deep learning with CNNs
 
 
+test
