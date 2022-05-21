@@ -6,8 +6,7 @@ Those challenges come from:
 - [ENS Data Challenges](https://challengedata.ens.fr)
 - [Zindi](https://zindi.africa/)
 
-
-There are different tasks of machine learning
+I've achieved varisous tasks / used different types of ML models:
 - regression / classification
 - computer vision
 - natural language processing
@@ -33,6 +32,3 @@ There are different tasks of machine learning
 | [Handwritten Digit Generation](https://github.com/obrunet/Kaggle_kernels/blob/master/Digit_generator/kaggle/Digit-Generator.ipynb) | 2021 | Kaggle | Unsupervised deep learning with G.A.N - training of a Generator and a Discriminator with the famous MNIST dataset |
 | Wind Power Generation in EU - Part [1](https://github.com/obrunet/My_Data_Science_Portfolio/blob/master/wind_ernergy_generation_efficiency/Wind_energy_clustering.ipynb) / [2](https://github.com/obrunet/My_Data_Science_Portfolio/blob/master/wind_ernergy_generation_efficiency/Wind_EDA.ipynb)  | 2021 | Kaggle | Countries segmentation depending on their generation profile, efficiency prediction analysis. |
 | [Fowl Escapades](https://github.com/obrunet/My_Data_Science_Portfolio/blob/master/Fowl%20Escapades/__FINAL.ipynb)  | 2022 | [Zindi](https://zindi.africa/competitions/fowl-escapades) | Classification of numerious classes of birds callings. Audio data augmentation, preprocessing, spectrograms & deep learning with CNNs
-
-
-test
